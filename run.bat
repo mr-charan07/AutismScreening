@@ -1,0 +1,2 @@
+python AutismDetection.py
+pause
